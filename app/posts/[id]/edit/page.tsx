@@ -65,7 +65,6 @@ export default function EditPost() {
             init={{
                 height: 300,
                 menubar: false,
-                plugins: ["link image code", "table lists wordcount"],
                 toolbar:
                 "undo redo | bold italic | alignleft aligncenter alignright | bullist numlist outdent indent | code"
             }}
